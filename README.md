@@ -20,7 +20,7 @@ loadstring(game:HttpGet('https://vt-now.github.io/VIOLENT/vt.lua'))()
 *   **[Backspace]** - Go back to the previous tab
 
 
-###Disclaimer & Terms
+### Disclaimer & Terms
 *   **Violent** is provided for free. If you bought this, you got scammed.
 *   We are not responsible for account bans. Use alt accounts if you're worried.
 *   Do not decompile or attempt to re-sell the source code.
