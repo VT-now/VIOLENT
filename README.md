@@ -1,5 +1,5 @@
 
-# Violent , *V1.3*
+# Violent
 
 
 Violent is a high-performance, multi-purpose script menu for Roblox. Heavily inspired by the **Rampage Mod Menu** from GTA V, it focuses on a clean, keyboard-navigable UI, deep customization, and stability.
