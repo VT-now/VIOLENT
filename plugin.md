@@ -77,7 +77,6 @@ Pass the variable saved from an Add function to read its current state at any ti
 - `Player.GetRoot()`: Returns the HumanoidRootPart or Torso.
 - `Player.Teleport(cframe)`: Instantly moves or tweens the player to a CFrame.
 - `Util.Copy(text)`: Copies a string to the clipboard.
-- `Util.Theme`: Table containing Primary, Secondary, and Highlight Color3 values.
 
 ## Example
 
