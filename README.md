@@ -19,6 +19,9 @@ loadstring(game:HttpGet('https://vt-now.github.io/VIOLENT/vt.lua'))()
 *   **[Return / Enter]** - Select / Confirm / Execute
 *   **[Backspace]** - Go back to the previous tab
 
+### Plugin Documentation
+* [![Plugin Docs](https://img.shields.io/badge/DOCUMENTATION-PLUGINS-orange?style=for-the-badge&logo=github)](https://github.com/VT-now/VIOLENT/blob/main/plugin.md)
+
 
 ### Disclaimer & Terms
 *   **Violent** is provided for free. If you bought this, you got scammed.
